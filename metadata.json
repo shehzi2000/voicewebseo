@@ -1,0 +1,6 @@
+{
+  "name": "Voice Agent Developer Portfolio",
+  "description": "A high-performance portfolio featuring responsive bento grids, interactive skill matrices, real-time performance benchmarks, a voice AI insights blog, and a functional contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
